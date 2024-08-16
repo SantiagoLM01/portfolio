@@ -1,0 +1,30 @@
+.div-footer {
+    margin-top: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    text-align: center;
+    background-color: rgb(253, 228, 193);
+    padding: 2rem;
+  
+  }
+  
+  @media (max-width: 800px) {
+    .div-footer {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+  }
+  
+  .p-footer {
+    font-weight: bold;
+  }
+  
+  .p-footer span {
+    font-weight: normal;
+    font-size: larger;
+  }
+  

@@ -1,0 +1,55 @@
+{
+    "header": {
+        "greeting": "Hello!",
+        "my-name-is": "My name is",
+        "name": "Santiago Ivan Lizarazo Mikly",
+        "passion": "I am an Electronic and Software Engineer from Costa Rica.",
+        "origin": "I am proficient in English and Spanish.",
+        "learning-goal": "My goal is to keep learning to provide the best service in this area.",
+        "certifications-projects": "I am a Software Engineer with over 3 years of experience and have a degree in Electronic Engineering. I have earned multiple software certifications and completed various projects to demonstrate my skills.",
+        "current-studies": "I am currently expanding my knowledge in machine learning and delving deeper into neural networks.",
+        "navStart": "Home",
+        "navProjects": "Projects",
+        "navContact": "Contact"
+    },
+    "miscellaneous": {
+        "cv": "Download Resume",
+        "passionPhrase": "My passion is to design perfect pages with excellent functionality and user experience",
+        "skills": "My Skills",
+        "seeProject": "See Live Project!",
+        "seeGithub": "Project Code on GitHub!",
+        "email": "Email",
+        "phone": "Phone",
+        "send": "Send"
+    },
+    "projects": {
+        "projectsTitle": "Projects",
+        "journal": "A Journal with CRUD notes and image upload was created. Firebase was used for the back-end and React with Redux, Material UI, CSS, HTML5 and JavaScript for the Front-End. Additional technologies: Babel and Jest for testing",
+        "pets": "In this project, a MERN Pet Adoption page was built. NodeJS was used for the back-end and React with Context, CSS, BootStrap, HTML5, and JavaScript for the Front-End.",
+        "calendar": "This project is a MERN Calendar with CRUD events. NodeJS was used for the back-end and React with Redux, CSS, BootStrap, HTML5, and JavaScript for the Front-End. Additional technologies: Babel and Jest for testing",
+        "maryMikly": "A page was created for the Mary Mikly company. React, CSS, TailWindCSS, HTML5, JavaScript were used",
+        "hangman": "A Hangman game was built on the web. React, CSS, HTML5, JavaScript were used",
+        "veterinary": "A MERN page for veterinarians with CRUD appointments was created. NodeJS was used for the back-end and React with Context, CSS, TailWindCSS, HTML5, and JavaScript for the Front-End. Additional technologies: Cypress for testing",
+        "festival": "This page was created for a music festival. HTML5, JavaScript, CSS, SASS were used",
+        "cripto": "This project was based on a cryptocurrency quote page with an API for the quote. HTML5, JavaScript, CSS were used",
+        "heroes": "A Marvel/DC Heroes SPA page was created. HTML5, React, JavaScript, CSS were used. Additional technologies: Babel and Jest for testing",
+        "footballfever": "I created FootballFever, a captivating web page built with React using TypeScript and TailwindCSS. With my passion for football, I crafted an immersive user experience, incorporating interactive components and seamless navigation. The result is a visually appealing and responsive site dedicated to celebrating the love of the game."
+    },
+    "contact": {
+        "contactTitle": "Contact Me",
+        "nameLabel": "Full Name",
+        "namePlaceholder": "Your Name...",
+        "themeLabel": "Subject",
+        "themePlaceholder": "About...",
+        "messageLabel": "Message",
+        "messagePlaceholder": "Write your message...",
+        "contactError": "All fields are required",
+        "contactSuccess": "Email sent successfully!"
+    },
+    "languages" : {
+        "language": "Language",
+        "spanish": "Spanish",
+        "english": "English"
+
+    }
+}
